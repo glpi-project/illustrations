@@ -1,0 +1,86 @@
+#!/usr/bin/env php
+<?php
+
+require __DIR__ . '/../vendor/autoload.php';
+
+use Symfony\Component\Console\Command\Command;
+use Symfony\Component\Console\Formatter\OutputFormatterStyle;
+use Symfony\Component\Console\Input\InputInterface;
+use Symfony\Component\Console\Output\OutputInterface;
+use Symfony\Component\Console\SingleCommandApplication;
+
+const ICONS_DEFINITION_FILE = __DIR__ . '/../svg/icons/icons.json';
+
+$build = (new SingleCommandApplication());
+$build->setCode(function (InputInterface $input, OutputInterface $output): int
+{
+    $output->writeln("Processing icons...");
+
+    // Init custom styles.
+    $output->getFormatter()->setStyle('new', new OutputFormatterStyle('green'));
+    $output->getFormatter()->setStyle('modified', new OutputFormatterStyle('yellow'));
+    $output->getFormatter()->setStyle('deleted', new OutputFormatterStyle('red'));
+
+    // Read existing definitions.
+    $icons_definitions = json_decode(
+        file_get_contents(ICONS_DEFINITION_FILE),
+        associative: true,
+    );
+    $found_icons = [];
+
+    // Iterate on all icons.
+    $iterator = new DirectoryIterator(__DIR__ . "/../svg/icons");
+    foreach ($iterator as $file) {
+        /** @var \SplFileInfo $file */
+        if ($file->isDir() || $file->getExtension() !== 'svg') {
+            continue;
+        }
+
+        $key = $file->getBasename('.svg');
+        $found_icons[] = $key;
+
+        // Register icon if it isn't yet defined.
+        if (!isset($icons_definitions[$key])) {
+            // Build name from kebab-case file.
+            $name = $file->getBasename('.svg');
+            $name = str_replace('-', ' ', $name);
+            $name = ucfirst($name);
+
+            $icons_definitions[$key] = [
+                'title' => $name,
+                'tags'  => [],
+            ];
+            $output->writeln("<new>[new]</new> $key");
+            continue;
+        }
+
+        // Insert "tags" property if missing.
+        if (!isset($icons_definitions[$key]['tags'])) {
+            $icons_definitions[$key]['tags'] = [];
+            $output->writeln("<modified>[modified]</modified> $key (initialized tags)");
+        }
+    }
+
+    // Delete missing icons.
+    $deleted_icons = array_diff(array_keys($icons_definitions), $found_icons);
+    foreach ($deleted_icons as $key) {
+        unset($icons_definitions[$key]);
+        $output->writeln("<deleted>[deleted]</deleted> $key");
+    }
+
+    // Sort the definitions.
+    ksort($icons_definitions);
+
+    // Write json file.
+    if(!file_put_contents(
+        ICONS_DEFINITION_FILE,
+        json_encode($icons_definitions, JSON_PRETTY_PRINT)
+    )) {
+        $output->writeln("Failed to write to " . ICONS_DEFINITION_FILE . ".");
+        return Command::FAILURE;
+    }
+
+    $output->writeln("Done.");
+    return Command::SUCCESS;
+});
+$build->run();

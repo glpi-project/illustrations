@@ -1,165 +1,226 @@
 {
     "approve-requests": {
-        "title": "Approve Requests"
+        "title": "Approve Requests",
+        "tags": []
     },
     "asset-cartridge": {
         "title": "Cartridge",
-        "tags": ["asset"]
+        "tags": [
+            "asset"
+        ]
     },
     "asset-desktop-1": {
         "title": "Desktop 1",
-        "tags": ["asset"]
+        "tags": [
+            "asset"
+        ]
     },
     "asset-desktop-2": {
         "title": "Desktop 2",
-        "tags": ["asset"]
+        "tags": [
+            "asset"
+        ]
     },
     "asset-laptop": {
         "title": "Laptop",
-        "tags": ["asset"]
+        "tags": [
+            "asset"
+        ]
     },
     "asset-lost": {
-        "title": "Asset lost"
+        "title": "Asset lost",
+        "tags": []
     },
     "asset-network-equipment": {
         "title": "Network equipment",
-        "tags": ["asset"]
+        "tags": [
+            "asset"
+        ]
     },
     "asset-peripheral": {
         "title": "Peripheral",
-        "tags": ["asset"]
+        "tags": [
+            "asset"
+        ]
     },
     "asset-phone": {
         "title": "Phone",
-        "tags": ["asset"]
+        "tags": [
+            "asset"
+        ]
     },
     "asset-printer": {
         "title": "Printer",
-        "tags": ["asset"]
+        "tags": [
+            "asset"
+        ]
     },
     "asset-server": {
         "title": "Server",
-        "tags": ["asset"]
+        "tags": [
+            "asset"
+        ]
     },
     "asset-smartphone": {
         "title": "Smartphone",
-        "tags": ["asset"]
+        "tags": [
+            "asset"
+        ]
     },
     "backup-restoration-1": {
-        "title": "Backup and restoration 1"
+        "title": "Backup and restoration 1",
+        "tags": []
     },
     "backup-restoration-2": {
-        "title": "Backup and restoration 2"
+        "title": "Backup and restoration 2",
+        "tags": []
     },
     "bi-reporting-1": {
-        "title": "Business Intelligence and Reporting 1"
+        "title": "Business Intelligence and Reporting 1",
+        "tags": []
     },
     "bi-reporting-2": {
-        "title": "Business Intelligence and Reporting 2"
+        "title": "Business Intelligence and Reporting 2",
+        "tags": []
     },
     "bi-reporting-3": {
-        "title": "Business Intelligence and Reporting 3"
+        "title": "Business Intelligence and Reporting 3",
+        "tags": []
     },
     "browse-kb": {
-        "title": "Browse help articles"
+        "title": "Browse help articles",
+        "tags": []
     },
     "cloud-instance": {
-        "title": "Cloud instance"
+        "title": "Cloud instance",
+        "tags": []
     },
     "connectivity-issue": {
-        "title": "Connectivity issue"
+        "title": "Connectivity issue",
+        "tags": []
     },
     "contract-signing-1": {
-        "title": "Contract signing 1"
+        "title": "Contract signing 1",
+        "tags": []
     },
     "contract-signing-2": {
-        "title": "Contract signing 2"
+        "title": "Contract signing 2",
+        "tags": []
     },
     "data-export": {
-        "title": "Data export"
+        "title": "Data export",
+        "tags": []
     },
     "fixing-bug": {
-        "title": "Fixing bug"
+        "title": "Fixing bug",
+        "tags": []
     },
     "glpi-cloud-support-1": {
-        "title": "GLPI Cloud Support 1"
+        "title": "GLPI Cloud Support 1",
+        "tags": []
     },
     "glpi-cloud-support-2": {
-        "title": "GLPI Cloud Support 2"
+        "title": "GLPI Cloud Support 2",
+        "tags": []
     },
     "kb-faq": {
-        "title": "Knowledge base and FAQ"
+        "title": "Knowledge base and FAQ",
+        "tags": []
     },
     "monitoring": {
-        "title": "Monitoring"
+        "title": "Monitoring",
+        "tags": []
     },
     "new-user-1": {
-        "title": "New user 1"
+        "title": "New user 1",
+        "tags": []
     },
     "new-user-2": {
-        "title": "New user 2"
+        "title": "New user 2",
+        "tags": []
     },
     "new-user-3": {
-        "title": "New user 3"
+        "title": "New user 3",
+        "tags": []
     },
     "new-user-4": {
-        "title": "New user 4"
+        "title": "New user 4",
+        "tags": []
     },
     "on-premise": {
-        "title": "On-premise"
+        "title": "On-premise",
+        "tags": []
     },
     "order-supplies": {
-        "title": "Order supplies"
+        "title": "Order supplies",
+        "tags": []
     },
     "partner": {
-        "title": "Partner"
+        "title": "Partner",
+        "tags": []
     },
     "print-job": {
-        "title": "Print a job"
+        "title": "Print a job",
+        "tags": []
     },
     "report-issue": {
-        "title": "Report an issue"
+        "title": "Report an issue",
+        "tags": []
     },
     "request-service": {
-        "title": "Request a service"
+        "title": "Request a service",
+        "tags": []
     },
     "request-support": {
-        "title": "Request support"
+        "title": "Request support",
+        "tags": []
     },
     "reservation": {
-        "title": "Make a reservation"
+        "title": "Make a reservation",
+        "tags": []
     },
     "reset-password-1": {
-        "title": "Reset password 1"
+        "title": "Reset password 1",
+        "tags": []
     },
     "reset-password-2": {
-        "title": "Reset password 2"
+        "title": "Reset password 2",
+        "tags": []
     },
     "reset-password-3": {
-        "title": "Reset password 3"
+        "title": "Reset password 3",
+        "tags": []
     },
     "rss-feeds": {
-        "title": "RSS feeds"
+        "title": "RSS feeds",
+        "tags": []
     },
     "shared-folder": {
-        "title": "Shared folder"
+        "title": "Shared folder",
+        "tags": []
     },
     "shared-inbox": {
-        "title": "Shared inbox"
+        "title": "Shared inbox",
+        "tags": []
     },
     "software-deployment": {
-        "title": "Deploy a software"
+        "title": "Deploy a software",
+        "tags": []
     },
     "technical-assistance-1": {
-        "title": "Technical assistance 1"
+        "title": "Technical assistance 1",
+        "tags": []
     },
     "technical-assistance-2": {
-        "title": "Technical assistance 2"
+        "title": "Technical assistance 2",
+        "tags": []
     },
     "training": {
-        "title": "Training"
+        "title": "Training",
+        "tags": []
     },
     "vpn": {
-        "title": "VPN"
+        "title": "VPN",
+        "tags": []
     }
 }
