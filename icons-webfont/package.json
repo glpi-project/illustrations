@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "svgtofont": "^6.2.0"
+  },
+  "scripts": {
+    "font": "svgtofont --sources ../svg/icons --output ./font"
+  }
+}

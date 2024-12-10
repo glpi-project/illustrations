@@ -1,0 +1,24 @@
+{
+  "emptyDist": true,
+  "fontName": "GLPI Illustrations",
+  "css": true,
+  "className": "gl",
+  "classNamePrefix": "gl",
+  "svgicons2svgfont": {
+    "fontHeight": 3500,
+    "fixedWidth": true,
+    "normalize": true
+  },
+  "website": {
+    "title": "GLPI illustrations",
+    "index": "symbol",
+    "meta": {
+      "description": "The icon library for GLPI project."
+    },
+    "description": "The icon library of <a href=\"https://github.com/glpi-project/glpi\">GLPI project</a>.",
+    "corners": {
+      "url": "https://github.com/glpi-project/illustrations",
+      "bgColor": "#4A4A4A"
+    }
+  }
+}
