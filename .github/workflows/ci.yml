@@ -1,0 +1,27 @@
+name: "Illustrations CI"
+
+on:
+    # Runs test suite when a new commit is pushed on "main" and when a new tag is created
+    push:
+      branches:
+        - main
+      tags:
+         - '*'
+    # Runs test suite when a PR is opened or synchronyzed
+    pull_request:
+    # Enable manual run
+    workflow_dispatch:
+
+jobs:
+    phpunit:
+        name: "PHPUnit"
+        runs-on: "ubuntu-latest"
+        steps:
+            - name: "Checkout"
+              uses: "actions/checkout@v4"
+            - name: "Install dev dependencies"
+              run : composer install --dev
+            - name: "Execute PHPunit"
+              run : vendor/bin/phpunit tests
+
+
