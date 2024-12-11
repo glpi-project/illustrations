@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "svg-chameleon": "^1.0.1"
+  },
+  "scripts": {
+    "build": "svg-chameleon --config svg-chameleon.config.json"
+  }
+}
