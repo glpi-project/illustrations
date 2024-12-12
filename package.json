@@ -1,8 +1,11 @@
 {
-  "devDependencies": {
-    "svg-chameleon": "^1.0.1"
-  },
-  "scripts": {
-    "build": "svg-chameleon --config svg-chameleon.config.json"
-  }
+    "name": "@glpi-project/illustrations",
+    "version": "0.1.0",
+    "author": "Alexandre Delaunay <adelaunay@teclib.com> (https://github.com/orthagh)",
+    "devDependencies": {
+        "svg-chameleon": "^1.0.1"
+    },
+    "scripts": {
+        "build": "svg-chameleon --config svg-chameleon.config.json"
+    }
 }
