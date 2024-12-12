@@ -2,18 +2,25 @@
 
 use PHPUnit\Framework\Attributes\DataProvider;
 use PHPUnit\Framework\TestCase;
+use Symfony\Component\DomCrawler\Crawler;
 
-final class IconsDefinitionTest extends TestCase
+final class SvgIconsTest extends TestCase
 {
     private static $icons_definition = [];
+    private static $sprites_crawler = [];
 
     private const ICONS_DEFINITION_FILE = __DIR__ . '/../dist/icons.json';
+    private const SPRITES_FILE = __DIR__ . '/../dist/glpi-illustrations.svg';
 
     public static function setUpBeforeClass(): void
     {
         self::$icons_definition = json_decode(
             file_get_contents(self::ICONS_DEFINITION_FILE),
             associative: true,
+        );
+
+        self::$sprites_crawler = new Crawler(
+            file_get_contents(self::SPRITES_FILE),
         );
     }
 
@@ -74,5 +81,17 @@ final class IconsDefinitionTest extends TestCase
             $file->getFileName(),
             implode(", ", $missing_colors)
         ));
+    }
+
+    #[DataProvider('getAllIcons')]
+    public function testIconExistInSprites(
+        SplFileInfo $file,
+    ): void {
+        $key = $file->getBasename('.svg');
+
+        $symbol = static::$sprites_crawler->filterXPath(
+            sprintf('//symbol[@id="%s"]', $key),
+        );
+        $this->assertEquals(1, $symbol->count());
     }
 }

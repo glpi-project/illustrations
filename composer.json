@@ -1,6 +1,7 @@
 {
     "require-dev": {
         "symfony/console": "^7.2",
-        "phpunit/phpunit": "^11.5"
+        "phpunit/phpunit": "^11.5",
+        "symfony/dom-crawler": "^7.2"
     }
 }
