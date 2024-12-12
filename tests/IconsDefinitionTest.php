@@ -7,7 +7,7 @@ final class IconsDefinitionTest extends TestCase
 {
     private static $icons_definition = [];
 
-    private const ICONS_DEFINITION_FILE = __DIR__ . '/../svg/icons/icons.json';
+    private const ICONS_DEFINITION_FILE = __DIR__ . '/../dist/icons.json';
 
     public static function setUpBeforeClass(): void
     {

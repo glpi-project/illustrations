@@ -9,7 +9,7 @@ use Symfony\Component\Console\Input\InputInterface;
 use Symfony\Component\Console\Output\OutputInterface;
 use Symfony\Component\Console\SingleCommandApplication;
 
-const ICONS_DEFINITION_FILE = __DIR__ . '/../svg/icons/icons.json';
+const ICONS_DEFINITION_FILE = __DIR__ . '/../dist/icons.json';
 
 $build = (new SingleCommandApplication());
 $build->setCode(function (InputInterface $input, OutputInterface $output): int
