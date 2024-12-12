@@ -1,11 +1,11 @@
 {
     "name": "@glpi-project/illustrations",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "author": "Alexandre Delaunay <adelaunay@teclib.com> (https://github.com/orthagh)",
     "license": "CC-BY-SA-4.0",
-    "publishConfig": {
-        "directory": "dist"
-    },
+    "files": [
+        "dist/*"
+    ],
     "devDependencies": {
         "svg-chameleon": "^1.0.1"
     },
