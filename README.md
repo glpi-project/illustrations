@@ -3,7 +3,7 @@
 SVG illustrations for [github.com/glpi-project/glpi](glpi-project)  
 Colors are customizable with CSS variables.
 
-![Icons](docs/pics/icons.png)
+![Icons](./docs/pics/icons.png)
 
 ## Usage
 
