@@ -40,3 +40,7 @@ This work is licensed under a
 
 [cc-by-sa]: https://creativecommons.org/licenses/by-sa/4.0/
 [cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
+
+## Credits
+
+- svg/icons until 2024-12-17: [https://pablodomrose.com/](Pablo Domrose)
