@@ -43,4 +43,4 @@ This work is licensed under a
 
 ## Credits
 
-- svg/icons until 2024-12-17: [https://pablodomrose.com/](Pablo Domrose)
+- svg/icons until 2024-12-17: [Pablo Domrose](https://pablodomrose.com/)
