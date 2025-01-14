@@ -1,7 +1,9 @@
 # illustrations
 
-SVG illustrations for [github.com/glpi-project/glpi](glpi-project)  
-Colors are customizable with CSS variables.
+![Icons](./svg/splashes/desk.svg)
+
+**SVG illustrations** for [github.com/glpi-project/glpi](glpi-project)  
+Most icons have their colors customizable with CSS variables.
 
 ![Icons](./docs/pics/icons.png)
 
