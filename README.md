@@ -1,4 +1,4 @@
-# illustrations
+# GLPI illustrations
 
 ![Icons](./svg/splashes/desk.svg)
 
