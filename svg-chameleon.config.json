@@ -1,7 +1,5 @@
 {
-    "path": "svg/icons/",
     "dest": "dist",
-    "name": "glpi-illustrations",
     "colors": {
         "name": "glpi-illustrations-color",
         "customVars": {
