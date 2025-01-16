@@ -10,7 +10,7 @@ final class SvgIconsTest extends TestCase
     private static $sprites_crawler = [];
 
     private const ICONS_DEFINITION_FILE = __DIR__ . '/../dist/icons.json';
-    private const SPRITES_FILE = __DIR__ . '/../dist/glpi-illustrations.svg';
+    private const SPRITES_FILE = __DIR__ . '/../dist/glpi-illustrations-icons.svg';
 
     public static function setUpBeforeClass(): void
     {
