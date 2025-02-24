@@ -1,0 +1,275 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <symbol viewBox="0 0 842 596" fill="none" id="desk" xmlns="http://www.w3.org/2000/svg">
+        <g clip-path="url(#clip0_525_5785)">
+            <path d="M841.89 554.83H0V575.05H841.89V554.83Z"
+                fill="var(--glpi-illustrations-color, var(--glpi-illustrations-gradient-2, #A3B9E6))" />
+            <path d="M7.84998 595.28L16.8 575.05H25.44L16.49 595.28H7.84998Z"
+                fill="var(--glpi-illustrations-color-2, var(--glpi-illustrations-gradient-3, #85A0D8))" />
+            <path d="M40.61 595.28L49.56 575.05H58.21L49.26 595.28H40.61Z"
+                fill="var(--glpi-illustrations-color-2, var(--glpi-illustrations-gradient-3, #85A0D8))" />
+            <path
+                d="M294.57 404.29C279.86 404.29 266 399.49 254.47 390.4C253.89 389.94 253.79 389.1 254.25 388.52C254.71 387.94 255.55 387.84 256.13 388.3C267.18 397.01 280.47 401.61 294.56 401.61C328.81 401.61 356.68 373.74 356.68 339.49C356.68 305.24 328.81 277.37 294.56 277.37C260.31 277.37 232.44 305.24 232.44 339.49C232.44 340.23 231.84 340.83 231.1 340.83C230.36 340.83 229.76 340.23 229.76 339.49C229.76 303.76 258.83 274.69 294.57 274.69C330.31 274.69 359.37 303.76 359.37 339.49C359.37 375.22 330.3 404.29 294.57 404.29Z"
+                fill="var(--glpi-illustrations-color-2, var(--glpi-illustrations-gradient-3, #85A0D8))" />
+            <path fill-rule="evenodd" clip-rule="evenodd"
+                d="M296.18 292.54C311.74 293.37 324.18 306.62 324.08 322.2C324.03 330.24 320.76 337.51 315.5 342.8C311.19 347.14 308.15 352.51 306.61 358.34C306.23 359.78 304.93 360.79 303.44 360.79H285.7C284.22 360.79 282.93 359.81 282.54 358.38C280.9 352.43 277.65 346.98 273.29 342.44C268.2 337.14 265.06 329.94 265.06 322C265.06 317.49 266.07 313.21 267.89 309.38C269.3 306.4 271.2 303.69 273.49 301.35C279.19 295.53 287.29 292.05 296.18 292.53V292.54Z"
+                fill="var(--glpi-illustrations-color-3, var(--glpi-illustrations-gradient-1, #E5EAF6))" />
+            <path
+                d="M303.21 376H285.92C284.69 376 283.7 375.01 283.7 373.78V360.79H305.44V373.78C305.44 375.01 304.45 376 303.22 376H303.21Z"
+                fill="var(--glpi-illustrations-color, var(--glpi-illustrations-gradient-2, #A3B9E6))" />
+            <path fill-rule="evenodd" clip-rule="evenodd"
+                d="M294.57 384.06C290.12 384.06 286.52 380.45 286.52 376.01H302.63C302.63 380.46 299.02 384.06 294.58 384.06H294.57Z"
+                fill="var(--glpi-illustrations-color-2, var(--glpi-illustrations-gradient-3, #85A0D8))" />
+            <path
+                d="M304.17 369.74H292.3C291.56 369.74 290.96 369.14 290.96 368.4C290.96 367.66 291.56 367.06 292.3 367.06H304.17C304.91 367.06 305.51 367.66 305.51 368.4C305.51 369.14 304.91 369.74 304.17 369.74Z"
+                fill="var(--glpi-illustrations-color-2, var(--glpi-illustrations-gradient-3, #85A0D8))" />
+            <path
+                d="M271.89 324.98C271.15 324.98 270.55 324.38 270.55 323.64C270.55 309.88 281.74 298.69 295.5 298.69C296.24 298.69 296.84 299.29 296.84 300.03C296.84 300.77 296.24 301.37 295.5 301.37C283.22 301.37 273.24 311.36 273.24 323.63C273.24 324.37 272.64 324.97 271.9 324.97L271.89 324.98Z"
+                fill="var(--glpi-illustrations-color, var(--glpi-illustrations-gradient-2, #A3B9E6))" />
+            <path
+                d="M415.8 171.56H287.16C284.25 171.56 281.89 173.92 281.89 176.83V242.2C281.89 245.11 284.25 247.47 287.16 247.47H428.72C432.47 247.47 436.06 248.96 438.72 251.61L462.82 275.71C464.54 277.43 467.48 276.21 467.48 273.78V249.58C467.48 248.42 468.42 247.47 469.59 247.47H478.03C480.94 247.47 483.3 245.11 483.3 242.2V176.83C483.3 173.92 480.94 171.56 478.03 171.56"
+                fill="var(--glpi-illustrations-color-3, var(--glpi-illustrations-gradient-1, #E5EAF6))" />
+            <path
+                d="M751.4 501.9C780.68 501.9 804.42 525.64 804.42 554.92H698.38C698.38 525.64 722.12 501.9 751.4 501.9Z"
+                fill="var(--glpi-illustrations-color-2, var(--glpi-illustrations-gradient-3, #85A0D8))" />
+            <path
+                d="M615.58 291.01L615.03 288.89C614.98 288.7 614.94 288.56 614.95 288.42L614.76 288.23L615.7 287.29C620.18 282.81 608.7 261.36 585.09 237.74C562.52 215.18 542.24 203.99 536.37 206.57L535.88 206.79L533.21 205.86L534.56 204.31C546.81 191.4 563.45 183.69 579.09 183.69C612.2 183.69 639.14 210.63 639.14 243.74C639.14 258.14 632.88 273.04 622.14 284.72C622.08 284.8 622.01 284.88 621.94 284.97L621.96 284.99C621.96 284.99 621.82 285.12 621.67 285.26C621.39 285.56 621.05 285.9 620.62 286.32C619.53 287.43 618.4 288.51 617.22 289.56L615.58 291.02V291.01ZM539.11 203.54C549.96 204.16 570.4 219.28 586.97 235.84C598.01 246.88 607.3 258.36 613.14 268.16C616.1 273.13 619.03 279.16 619.27 283.82C629.96 272.56 636.44 257.62 636.44 243.73C636.44 212.1 610.71 186.37 579.08 186.37C565.25 186.37 550.55 192.73 539.11 203.54Z"
+                fill="var(--glpi-illustrations-color-2, var(--glpi-illustrations-gradient-3, #85A0D8))" />
+            <path
+                d="M616.638 288.243C622.39 282.491 608.686 259.459 586.027 236.801C563.369 214.143 540.338 200.438 534.585 206.19C528.833 211.943 542.538 234.974 565.196 257.632C587.854 280.291 610.886 293.995 616.638 288.243Z"
+                fill="var(--glpi-illustrations-color-2, var(--glpi-illustrations-gradient-3, #85A0D8))" />
+            <path
+                d="M612.79 290.891C602.21 290.891 581.37 275.691 564.24 258.561C543.89 238.211 526.25 212.601 533.63 205.221C541.01 197.841 566.62 215.491 586.97 235.831C598.01 246.871 607.3 258.35 613.14 268.15C617.47 275.43 621.76 284.991 617.59 289.171C616.42 290.341 614.79 290.881 612.79 290.881V290.891ZM538.44 206.171C537.15 206.171 536.17 206.48 535.53 207.12C531.05 211.6 542.53 233.051 566.14 256.671C589.76 280.291 611.21 291.751 615.69 287.281C617.93 285.041 616.11 278.411 610.83 269.531C605.1 259.911 595.95 248.61 585.07 237.73C564.82 217.48 546.17 206.161 538.43 206.161L538.44 206.171Z"
+                fill="var(--glpi-illustrations-color-2, var(--glpi-illustrations-gradient-3, #85A0D8))" />
+            <path
+                d="M752.74 501.9H750.06V256.05C750.06 239.86 744.47 224 734.32 211.39C713.19 185.15 676.13 177.32 646.19 192.77L623.5 204.48L622.27 202.1L644.96 190.39C676.03 174.36 714.49 182.49 736.41 209.72C746.94 222.8 752.74 239.26 752.74 256.06V501.91V501.9Z"
+                fill="var(--glpi-illustrations-color-2, var(--glpi-illustrations-gradient-3, #85A0D8))" />
+            <path
+                d="M568.86 225.44C573.72 229.46 578.75 234.03 583.76 239.05C588.77 244.06 593.34 249.09 597.37 253.95C593.68 257.97 588.39 260.51 582.5 260.51C571.34 260.51 562.3 251.47 562.3 240.31C562.3 234.42 564.84 229.13 568.86 225.44Z"
+                fill="var(--glpi-illustrations-color-3, var(--glpi-illustrations-gradient-1, #E5EAF6))" />
+            <path
+                d="M346.06 214.51C351.804 214.51 356.46 209.854 356.46 204.11C356.46 198.366 351.804 193.71 346.06 193.71C340.316 193.71 335.66 198.366 335.66 204.11C335.66 209.854 340.316 214.51 346.06 214.51Z"
+                fill="var(--glpi-illustrations-color, var(--glpi-illustrations-gradient-2, #A3B9E6))" />
+            <path
+                d="M409.62 214.51C415.364 214.51 420.02 209.854 420.02 204.11C420.02 198.366 415.364 193.71 409.62 193.71C403.876 193.71 399.22 198.366 399.22 204.11C399.22 209.854 403.876 214.51 409.62 214.51Z"
+                fill="var(--glpi-illustrations-color, var(--glpi-illustrations-gradient-2, #A3B9E6))" />
+            <path
+                d="M378.42 224.91C384.164 224.91 388.82 220.254 388.82 214.51C388.82 208.766 384.164 204.11 378.42 204.11C372.676 204.11 368.02 208.766 368.02 214.51C368.02 220.254 372.676 224.91 378.42 224.91Z"
+                fill="var(--glpi-illustrations-color, var(--glpi-illustrations-gradient-2, #A3B9E6))" />
+            <path
+                d="M163.75 531.36L154.11 554.92H326.85L335.98 527.48H169.52C166.99 527.48 164.71 529.01 163.75 531.35V531.36Z"
+                fill="var(--glpi-illustrations-color-3, var(--glpi-illustrations-gradient-1, #E5EAF6))" />
+            <path
+                d="M326.85 554.92L404.58 321.33C405.6 318.27 408.46 316.21 411.68 316.21H662.61C666.8 316.21 669.8 320.27 668.57 324.28L597.67 554.93H326.85V554.92Z"
+                fill="var(--glpi-illustrations-color-2, var(--glpi-illustrations-gradient-3, #85A0D8))" />
+            <path
+                d="M279.27 546.19H267.14C264.24 546.19 262.15 543.42 262.94 540.63C263.47 538.75 265.19 537.46 267.14 537.46H279.27C282.17 537.46 284.26 540.23 283.47 543.02C282.94 544.9 281.22 546.19 279.27 546.19Z"
+                fill="var(--glpi-illustrations-color-2, var(--glpi-illustrations-gradient-3, #85A0D8))" />
+            <path
+                d="M312.94 546.19H300.81C297.91 546.19 295.82 543.42 296.61 540.63C297.14 538.75 298.86 537.46 300.81 537.46H312.94C315.84 537.46 317.93 540.23 317.14 543.02C316.61 544.9 314.89 546.19 312.94 546.19Z"
+                fill="var(--glpi-illustrations-color-2, var(--glpi-illustrations-gradient-3, #85A0D8))" />
+            <path
+                d="M492.56 441.06C490.49 449.77 495.74 457.01 504.34 457.01C512.94 457.01 521.3 449.77 522.97 441.06C524.59 432.57 519.23 425.85 511.03 425.85C502.83 425.85 494.58 432.57 492.56 441.06Z"
+                fill="var(--glpi-illustrations-color-3, var(--glpi-illustrations-gradient-1, #E5EAF6))" />
+            <path
+                d="M346.06 458.35H308.82C300.22 458.35 293.23 451.35 293.23 442.76V412.62C293.23 411.88 293.83 411.28 294.57 411.28C295.31 411.28 295.91 411.88 295.91 412.62V442.76C295.91 449.88 301.7 455.67 308.82 455.67H346.06C346.8 455.67 347.4 456.27 347.4 457.01C347.4 457.75 346.8 458.35 346.06 458.35Z"
+                fill="var(--glpi-illustrations-color-2, var(--glpi-illustrations-gradient-3, #85A0D8))" />
+        </g>
+        <defs />
+    </symbol>
+    <symbol viewBox="0 0 842 596" fill="none" id="shelves" xmlns="http://www.w3.org/2000/svg">
+        <g clip-path="url(#clip0_525_5663)">
+            <path d="M363.14 462.01H280.69V508.42H363.14V462.01Z"
+                fill="var(--glpi-illustrations-color, var(--glpi-illustrations-gradient-1, #E5EAF6))" />
+            <path d="M338.57 508.42H256.12V554.83H338.57V508.42Z"
+                fill="var(--glpi-illustrations-color, var(--glpi-illustrations-gradient-1, #E5EAF6))" />
+            <path d="M841.89 554.83H0V575.05H841.89V554.83Z"
+                fill="var(--glpi-illustrations-color-2, var(--glpi-illustrations-gradient-2, #A3B9E6))" />
+            <path d="M834.3 595.28L825.35 575.05H816.71L825.66 595.28H834.3Z"
+                fill="var(--glpi-illustrations-color-3, var(--glpi-illustrations-gradient-3, #85A0D8))" />
+            <path d="M801.54 595.28L792.59 575.05H783.95L792.9 595.28H801.54Z"
+                fill="var(--glpi-illustrations-color-3, var(--glpi-illustrations-gradient-3, #85A0D8))" />
+            <path
+                d="M142 313.93C138.97 313.93 136.51 316.39 136.51 319.42V396.59C136.51 399.62 138.97 402.08 142 402.08H277.03C280.93 402.08 284.67 403.63 287.43 406.39L312.51 431.47C314.3 433.26 317.36 431.99 317.36 429.46V404.27C317.36 403.06 318.34 402.08 319.55 402.08H328.33C331.36 402.08 333.82 399.62 333.82 396.59V319.42C333.82 316.39 331.36 313.93 328.33 313.93H197.22"
+                fill="var(--glpi-illustrations-color, var(--glpi-illustrations-gradient-1, #E5EAF6))" />
+            <path d="M161.96 334.41H307.77"
+                stroke="var(--glpi-illustrations-color-3, var(--glpi-illustrations-gradient-3, #85A0D8))"
+                stroke-width="var(--svg-custom-stroke-width, 3)" stroke-miterlimit="10"
+                stroke-linecap="round" />
+            <path d="M161.96 349.41H307.77"
+                stroke="var(--glpi-illustrations-color-3, var(--glpi-illustrations-gradient-3, #85A0D8))"
+                stroke-width="var(--svg-custom-stroke-width, 3)" stroke-miterlimit="10"
+                stroke-linecap="round" />
+            <path d="M161.96 364.4H307.77"
+                stroke="var(--glpi-illustrations-color-3, var(--glpi-illustrations-gradient-3, #85A0D8))"
+                stroke-width="var(--svg-custom-stroke-width, 3)" stroke-miterlimit="10"
+                stroke-linecap="round" />
+            <path d="M161.96 379.4H241.54"
+                stroke="var(--glpi-illustrations-color-3, var(--glpi-illustrations-gradient-3, #85A0D8))"
+                stroke-width="var(--svg-custom-stroke-width, 3)" stroke-miterlimit="10"
+                stroke-linecap="round" />
+            <path
+                d="M665.52 479.9C704.688 479.9 736.44 448.148 736.44 408.98C736.44 369.812 704.688 338.06 665.52 338.06C626.352 338.06 594.6 369.812 594.6 408.98C594.6 448.148 626.352 479.9 665.52 479.9Z"
+                fill="var(--glpi-illustrations-color-4, #BAC5DD)" />
+            <path
+                d="M654.12 422.66L679.57 397.21C687.22 400.91 696.69 399.59 703.04 393.24C709.39 386.89 710.71 377.43 707.01 369.78L691.9 384.89L682.33 375.32L697.44 360.21C689.79 356.52 680.33 357.84 673.98 364.19C667.63 370.54 666.31 380 670 387.65L644.54 413.11C636.89 409.42 627.43 410.74 621.08 417.09C614.73 423.44 613.41 432.9 617.11 440.55L632.22 425.44L641.79 435.01L626.68 450.12C634.33 453.81 643.79 452.49 650.14 446.14C656.49 439.79 657.81 430.32 654.11 422.67L654.12 422.66Z"
+                fill="var(--glpi-illustrations-color, var(--glpi-illustrations-gradient-1, #E5EAF6))" />
+            <path
+                d="M659.71 413.96L692.27 449.44C693.56 450.84 695.75 450.89 697.09 449.54L706.69 439.94C708.04 438.59 707.99 436.39 706.57 435.1L670.89 402.74C669.57 401.54 667.54 401.59 666.28 402.85L659.8 409.33C658.53 410.6 658.49 412.63 659.7 413.95L659.71 413.96Z"
+                fill="var(--glpi-illustrations-color-3, var(--glpi-illustrations-gradient-3, #85A0D8))" />
+            <path d="M668.64 408.14L701.46 438.08"
+                stroke="var(--glpi-illustrations-color-5, var(--glpi-illustrations-background, white))"
+                stroke-miterlimit="10" stroke-linecap="round" />
+            <path d="M665.52 411.26L695.69 443.85"
+                stroke="var(--glpi-illustrations-color-5, var(--glpi-illustrations-background, white))"
+                stroke-miterlimit="10" stroke-linecap="round" />
+            <path d="M663.03 406.12L640.59 383.68"
+                stroke="var(--glpi-illustrations-color-3, var(--glpi-illustrations-gradient-3, #85A0D8))"
+                stroke-width="var(--svg-custom-stroke-width-2, 2)" stroke-miterlimit="10"
+                stroke-linecap="round" />
+            <path
+                d="M629.89 380.09L636.01 385.58C636.8 386.29 638.01 386.26 638.77 385.51L642.21 382.07C642.95 381.33 643 380.15 642.32 379.36L637.01 373.07C636.25 372.17 634.89 372.12 634.06 372.95L629.82 377.19C629.01 378 629.04 379.33 629.9 380.1L629.89 380.09Z"
+                stroke="var(--glpi-illustrations-color-3, var(--glpi-illustrations-gradient-3, #85A0D8))"
+                stroke-width="var(--svg-custom-stroke-width-2, 2)" stroke-miterlimit="10"
+                stroke-linecap="round" />
+            <path d="M627.82 476.7L616.18 491.49C613.87 494.42 610.34 496.14 606.61 496.14H559.07"
+                stroke="var(--glpi-illustrations-color-3, var(--glpi-illustrations-gradient-3, #85A0D8))"
+                stroke-width="var(--svg-custom-stroke-width-2, 2)" stroke-miterlimit="10"
+                stroke-linecap="round" />
+            <path
+                d="M704.83 350.17C693.68 342.78 680.31 338.48 665.94 338.48C627 338.48 595.44 370.05 595.44 408.98C595.44 447.91 627.01 479.48 665.94 479.48C704.87 479.48 736.44 447.91 736.44 408.98"
+                stroke="var(--glpi-illustrations-color-3, var(--glpi-illustrations-gradient-3, #85A0D8))"
+                stroke-width="var(--svg-custom-stroke-width-2, 2)" stroke-miterlimit="10"
+                stroke-linecap="round" />
+            <path
+                d="M535.66 281.59H229.88V255.62H571.49C574.5 255.62 576.95 258.06 576.95 261.08V276.14C576.95 279.15 574.51 281.6 571.49 281.6"
+                fill="var(--glpi-illustrations-color-2, var(--glpi-illustrations-gradient-2, #A3B9E6))" />
+            <path d="M229.88 255.62H213.35V281.59H229.88V255.62Z"
+                fill="var(--glpi-illustrations-color-3, var(--glpi-illustrations-gradient-3, #85A0D8))" />
+            <path
+                d="M522.18 197.77H407.42C402.599 197.77 398.69 201.679 398.69 206.5V246.88C398.69 251.701 402.599 255.61 407.42 255.61H522.18C527.001 255.61 530.91 251.701 530.91 246.88V206.5C530.91 201.679 527.001 197.77 522.18 197.77Z"
+                fill="var(--glpi-illustrations-color, var(--glpi-illustrations-gradient-1, #E5EAF6))" />
+            <path
+                d="M398.69 245.32V208.08C398.69 202.39 403.3 197.78 408.99 197.78H390.1C384.41 197.78 379.8 202.39 379.8 208.08V245.32C379.8 251.01 384.41 255.62 390.1 255.62H408.99C403.3 255.62 398.69 251.01 398.69 245.32Z"
+                fill="var(--glpi-illustrations-color-3, var(--glpi-illustrations-gradient-3, #85A0D8))" />
+            <path
+                d="M424.18 242.26V237.62H419.48V232.41H424.69V237.11H438.21V228.23H424.17V223.59H419.47V213.78H424.17V209.08H438.72V213.78H443.47V237.62H438.72V242.26H424.17H424.18ZM424.7 223.11H438.22V214.29H424.7V223.11Z"
+                fill="var(--glpi-illustrations-color-3, var(--glpi-illustrations-gradient-3, #85A0D8))" />
+            <path
+                d="M449.73 228.27V223.11H454.94V228.27H449.73ZM449.73 237.46V232.25H454.94V237.46H449.73Z"
+                fill="var(--glpi-illustrations-color-3, var(--glpi-illustrations-gradient-3, #85A0D8))" />
+            <path
+                d="M465.88 242.26V237.62H461.18V213.78H465.88V209.08H480.43V213.78H485.18V237.62H480.43V242.26H465.88ZM466.39 237.1H479.91V214.29H466.39V237.1Z"
+                fill="var(--glpi-illustrations-color-3, var(--glpi-illustrations-gradient-3, #85A0D8))" />
+            <path
+                d="M496.12 242.26V237.62H491.42V213.78H496.12V209.08H510.67V213.78H515.42V237.62H510.67V242.26H496.12ZM496.63 237.1H510.15V214.29H496.63V237.1Z"
+                fill="var(--glpi-illustrations-color-3, var(--glpi-illustrations-gradient-3, #85A0D8))" />
+            <path d="M370.36 187.15H253.18L280.64 255.62H342.67L360.92 209.58"
+                fill="var(--glpi-illustrations-color-3, var(--glpi-illustrations-gradient-3, #85A0D8))" />
+            <path
+                d="M374.47 167.08H245.85C244.856 167.08 244.05 167.886 244.05 168.88V185.35C244.05 186.344 244.856 187.15 245.85 187.15H374.47C375.464 187.15 376.27 186.344 376.27 185.35V168.88C376.27 167.886 375.464 167.08 374.47 167.08Z"
+                fill="var(--glpi-illustrations-color-2, var(--glpi-illustrations-gradient-2, #A3B9E6))" />
+            <path
+                d="M422.05 105.54C408.8 108.31 396.63 112.28 385.26 117.62C394.29 103.35 400.95 89.77 403.09 80.48C403.34 79.4 402.41 78.45 401.52 78.87C388.85 84.86 376.44 92.07 364.79 100.55C370.58 84.96 375.21 70.07 377.53 58.89C377.91 57.07 376.22 55.61 374.85 56.58C363.1 64.88 351.63 74.11 342.12 85.46C342.33 71.3 340.66 57.43 336.99 44.81C336.62 43.53 335.21 43.18 334.44 44.19C323.33 58.7 315.52 77.78 312.02 96.34C311.93 96.84 311.84 97.35 311.75 97.85C307.81 80.27 301.1 63.96 291.98 50.85C291.25 49.8 289.83 50.05 289.41 51.31C284.44 66.08 282.43 82.81 283.06 98.69C282.65 98.25 282.24 97.79 281.82 97.36C269.73 84.94 255.24 74.47 239.55 70.3C231.11 68.06 242.8 93.88 244.33 96.89C247.87 103.89 251.85 110.65 256.03 117.23C243.63 108.73 230.12 101.86 215.83 97.58C214.34 97.13 212.94 98.6 213.44 100.3C217.67 114.71 225.73 128.31 235.44 138.28C244.97 148.06 260.67 159.63 273 167.1H350C378.58 156.45 404.59 136.4 424.12 109.78C425.47 107.95 424.08 105.14 422.04 105.56L422.05 105.54Z"
+                fill="var(--glpi-illustrations-color-3, var(--glpi-illustrations-gradient-3, #85A0D8))" />
+            <path
+                d="M252.64 114.49C265.93 121.56 276.81 133.5 282.58 147.41C273.83 135.29 263.89 124.34 252.64 114.49Z"
+                fill="var(--glpi-illustrations-color-2, var(--glpi-illustrations-gradient-2, #A3B9E6))" />
+            <path
+                d="M281.9 94.3198C284.46 105.01 286.73 115.72 290.51 126.02C294.21 136.34 299.07 146.22 303.07 156.46C290.83 137.05 282.86 117.48 281.9 94.3198Z"
+                fill="var(--glpi-illustrations-color-2, var(--glpi-illustrations-gradient-2, #A3B9E6))" />
+            <path
+                d="M322.99 155.63C347.02 133.94 375 115.28 406.96 108.05C391.77 113.61 377.04 120.21 363.18 128.53C349.31 136.73 336.3 146.35 322.99 155.63Z"
+                fill="var(--glpi-illustrations-color-2, var(--glpi-illustrations-gradient-2, #A3B9E6))" />
+            <path
+                d="M382.16 87.99C361.45 99.39 346.6 116.48 333.98 136.14C343.3 114.99 360.09 96.04 382.16 87.99Z"
+                fill="var(--glpi-illustrations-color-2, var(--glpi-illustrations-gradient-2, #A3B9E6))" />
+            <path
+                d="M343.21 83.27C330.35 103.99 320.17 126.39 316.06 150.56C316.71 125.89 327.5 102.03 343.21 83.27Z"
+                fill="var(--glpi-illustrations-color-2, var(--glpi-illustrations-gradient-2, #A3B9E6))" />
+            <path
+                d="M311.96 92.1602C311.73 106.16 312.74 119.93 314.95 133.75C309.38 120.8 308.32 105.77 311.96 92.1602Z"
+                fill="var(--glpi-illustrations-color-2, var(--glpi-illustrations-gradient-2, #A3B9E6))" />
+            <path
+                d="M274.41 508.42H539.23C543 508.42 546.06 505.36 546.06 501.59V468.83C546.06 465.06 543 462 539.23 462H274.41"
+                stroke="var(--glpi-illustrations-color-2, var(--glpi-illustrations-gradient-2, #A3B9E6))"
+                stroke-width="var(--svg-custom-stroke-width-2, 2)" stroke-miterlimit="10" />
+            <path
+                d="M363.14 462.01H541.06C543.82 462.01 546.06 464.25 546.06 467.01V503.42C546.06 506.18 543.82 508.42 541.06 508.42H363.14V462.01Z"
+                fill="var(--glpi-illustrations-color-2, var(--glpi-illustrations-gradient-2, #A3B9E6))" />
+            <path
+                d="M408.87 496.14C414.525 496.14 419.11 491.555 419.11 485.9C419.11 480.244 414.525 475.66 408.87 475.66C403.215 475.66 398.63 480.244 398.63 485.9C398.63 491.555 403.215 496.14 408.87 496.14Z"
+                fill="var(--glpi-illustrations-color, var(--glpi-illustrations-gradient-1, #E5EAF6))" />
+            <path d="M434.92 485.21H519.15"
+                stroke="var(--glpi-illustrations-color-3, var(--glpi-illustrations-gradient-3, #85A0D8))"
+                stroke-width="var(--svg-custom-stroke-width-3, 5)" stroke-miterlimit="10"
+                stroke-linecap="round" />
+            <path
+                d="M249.84 554.83H514.66C518.43 554.83 521.49 551.77 521.49 548V515.24C521.49 511.47 518.43 508.41 514.66 508.41H249.84"
+                stroke="var(--glpi-illustrations-color-3, var(--glpi-illustrations-gradient-3, #85A0D8))"
+                stroke-width="var(--svg-custom-stroke-width-2, 2)" stroke-miterlimit="10" />
+            <path
+                d="M338.57 508.42H516.49C519.25 508.42 521.49 510.66 521.49 513.42V549.83C521.49 552.59 519.25 554.83 516.49 554.83H338.57V508.42Z"
+                fill="var(--glpi-illustrations-color-3, var(--glpi-illustrations-gradient-3, #85A0D8))" />
+            <path
+                d="M384.3 542.55C389.955 542.55 394.54 537.965 394.54 532.31C394.54 526.654 389.955 522.07 384.3 522.07C378.645 522.07 374.06 526.654 374.06 532.31C374.06 537.965 378.645 542.55 384.3 542.55Z"
+                fill="var(--glpi-illustrations-color, var(--glpi-illustrations-gradient-1, #E5EAF6))" />
+            <path d="M410.35 531.63H494.58"
+                stroke="var(--glpi-illustrations-color-2, var(--glpi-illustrations-gradient-2, #A3B9E6))"
+                stroke-width="var(--svg-custom-stroke-width-3, 5)" stroke-miterlimit="10"
+                stroke-linecap="round" />
+            <path d="M363.14 477H285.18"
+                stroke="var(--glpi-illustrations-color-3, var(--glpi-illustrations-gradient-3, #85A0D8))"
+                stroke-width="var(--svg-custom-stroke-width-2, 2)" stroke-miterlimit="10" />
+            <path d="M363.14 485.19H285.18"
+                stroke="var(--glpi-illustrations-color-3, var(--glpi-illustrations-gradient-3, #85A0D8))"
+                stroke-width="var(--svg-custom-stroke-width-2, 2)" stroke-miterlimit="10" />
+            <path d="M363.14 493.38H285.18"
+                stroke="var(--glpi-illustrations-color-3, var(--glpi-illustrations-gradient-3, #85A0D8))"
+                stroke-width="var(--svg-custom-stroke-width-2, 2)" stroke-miterlimit="10" />
+            <path d="M338.57 524.77H260.61"
+                stroke="var(--glpi-illustrations-color-3, var(--glpi-illustrations-gradient-3, #85A0D8))"
+                stroke-width="var(--svg-custom-stroke-width-2, 2)" stroke-miterlimit="10" />
+            <path d="M338.57 532.96H260.61"
+                stroke="var(--glpi-illustrations-color-3, var(--glpi-illustrations-gradient-3, #85A0D8))"
+                stroke-width="var(--svg-custom-stroke-width-2, 2)" stroke-miterlimit="10" />
+            <path d="M338.57 541.15H260.61"
+                stroke="var(--glpi-illustrations-color-3, var(--glpi-illustrations-gradient-3, #85A0D8))"
+                stroke-width="var(--svg-custom-stroke-width-2, 2)" stroke-miterlimit="10" />
+            <path d="M391.12 384.14L388.65 363.93"
+                stroke="var(--glpi-illustrations-color-3, var(--glpi-illustrations-gradient-3, #85A0D8))"
+                stroke-width="var(--svg-custom-stroke-width-3, 5)" stroke-miterlimit="10"
+                stroke-linecap="round" />
+            <path d="M407.5 384.14L411.68 356.04"
+                stroke="var(--glpi-illustrations-color-2, var(--glpi-illustrations-gradient-2, #A3B9E6))"
+                stroke-width="var(--svg-custom-stroke-width-3, 5)" stroke-miterlimit="10"
+                stroke-linecap="round" />
+            <path d="M427.98 384.14L428.03 351.38"
+                stroke="var(--glpi-illustrations-color-3, var(--glpi-illustrations-gradient-3, #85A0D8))"
+                stroke-width="var(--svg-custom-stroke-width-3, 5)" stroke-miterlimit="10"
+                stroke-linecap="round" />
+            <path d="M428.03 355.07H434.72C435.9 355.07 436.85 356.18 436.85 357.55V375.95"
+                stroke="var(--glpi-illustrations-color-3, var(--glpi-illustrations-gradient-3, #85A0D8))"
+                stroke-width="var(--svg-custom-stroke-width-2, 2)" stroke-miterlimit="10"
+                stroke-linecap="round" />
+            <path
+                d="M429.76 461.27H386.51C383.57 461.27 381.05 458.87 380.56 455.59L371.31 394.16C370.68 389.99 373.52 386.19 377.26 386.19H439.01C442.75 386.19 445.59 389.99 444.96 394.16L435.71 455.59C435.22 458.87 432.7 461.27 429.76 461.27Z"
+                fill="var(--glpi-illustrations-color-3, var(--glpi-illustrations-gradient-3, #85A0D8))" />
+            <path
+                d="M626.15 179.87H598.69C594.45 179.87 590.39 181.55 587.39 184.55L560.14 211.8C558.2 213.74 554.88 212.37 554.88 209.62V182.26C554.88 180.94 553.81 179.88 552.5 179.88H542.96C539.67 179.88 537 177.21 537 173.92V100.01C537 96.7198 539.67 94.0498 542.96 94.0498H664.81C668.1 94.0498 670.77 96.7198 670.77 100.01V173.92C670.77 177.21 668.1 179.88 664.81 179.88"
+                fill="var(--glpi-illustrations-color, var(--glpi-illustrations-gradient-1, #E5EAF6))" />
+            <path
+                d="M639.3 113.91C639.46 114.12 639.61 114.33 639.75 114.55L639.55 114.84L605.14 141.56C602.68 142.98 599.65 142.97 597.2 141.53L562.66 114.4C561.98 115.46 561.57 116.72 561.57 118.07V156C561.57 159.77 564.63 162.83 568.4 162.83H633.92C637.69 162.83 640.75 159.77 640.75 156V118.07C640.75 116.5 640.2 115.06 639.3 113.91Z"
+                fill="var(--glpi-illustrations-color-2, var(--glpi-illustrations-gradient-2, #A3B9E6))" />
+            <path
+                d="M568.4 111.24C565.99 111.24 563.88 112.5 562.66 114.39L597.2 141.52C599.65 142.96 602.68 142.98 605.14 141.55L639.55 114.83L639.75 114.54C638.55 112.56 636.41 111.23 633.93 111.23H594.23"
+                fill="var(--glpi-illustrations-color-3, var(--glpi-illustrations-gradient-3, #85A0D8))" />
+            <path
+                d="M640.06 126.26C647.682 126.26 653.86 120.081 653.86 112.46C653.86 104.838 647.682 98.6597 640.06 98.6597C632.438 98.6597 626.26 104.838 626.26 112.46C626.26 120.081 632.438 126.26 640.06 126.26Z"
+                fill="var(--glpi-illustrations-color, var(--glpi-illustrations-gradient-1, #E5EAF6))" />
+            <path
+                d="M640.06 124.06C646.466 124.06 651.66 118.866 651.66 112.46C651.66 106.053 646.466 100.86 640.06 100.86C633.653 100.86 628.46 106.053 628.46 112.46C628.46 118.866 633.653 124.06 640.06 124.06Z"
+                fill="var(--glpi-illustrations-color-3, var(--glpi-illustrations-gradient-3, #85A0D8))" />
+        </g>
+        <defs />
+    </symbol>
+</svg>
