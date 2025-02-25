@@ -6,7 +6,10 @@
           "white": "glpi-illustrations-background",
           "#2F3F64": "glpi-illustrations-header-dark",
           "#BCC5DC": "glpi-illustrations-header-light",
-          "#FEC95C": "glpi-illustrations-primary"
+          "#FEC95C": "glpi-illustrations-primary",
+          "#E5EAF6": "glpi-illustrations-gradient-1",
+          "#A3B9E6": "glpi-illustrations-gradient-2",
+          "#85A0D8": "glpi-illustrations-gradient-3"
         }
     }
 }
