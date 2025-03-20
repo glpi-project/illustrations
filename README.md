@@ -10,7 +10,7 @@ Most icons have their colors customizable with CSS variables.
 ## Usage
 
 ```bash
-npm install @glpi/illustrations
+npm install @glpi-project/illustrations
 ```
 
 Set the colors for the icons in your CSS:
