@@ -1,4 +1,12 @@
 {
+    "antivirus": {
+        "title": "Antivirus",
+        "tags": []
+    },
+    "application": {
+        "title": "Application",
+        "tags": ["software"]
+    },
     "approve-requests": {
         "title": "Approve Requests",
         "tags": []
@@ -75,20 +83,100 @@
         "title": "Backup and restoration 2",
         "tags": []
     },
+    "bank": {
+        "title": "Bank",
+        "tags": [
+            "building"
+        ]
+    },
     "bi-reporting-1": {
         "title": "Business Intelligence and Reporting 1",
-        "tags": []
+        "tags": [
+            "charts",
+            "reporting",
+            "dashboard"
+        ]
     },
     "bi-reporting-2": {
         "title": "Business Intelligence and Reporting 2",
-        "tags": []
+        "tags": [
+            "charts",
+            "reporting",
+            "dashboard"
+        ]
     },
     "bi-reporting-3": {
         "title": "Business Intelligence and Reporting 3",
+        "tags": [
+            "charts",
+            "reporting",
+            "dashboard"
+        ]
+    },
+    "bookmark": {
+        "title": "Bookmark",
         "tags": []
     },
     "browse-kb": {
         "title": "Browse help articles",
+        "tags": []
+    },
+    "building": {
+        "title": "Building",
+        "tags": [
+            "building"
+        ]
+    },
+    "calendar": {
+        "title": "Calendar",
+        "tags": []
+    },
+    "car": {
+        "title": "Car",
+        "tags": []
+    },
+    "chart-area": {
+        "title": "Area chart",
+        "tags": [
+            "charts",
+            "reporting",
+            "dashboard"
+        ]
+    },
+    "chart-bar": {
+        "title": "Bars chart",
+        "tags": [
+            "charts",
+            "reporting",
+            "dashboard"
+        ]
+    },
+    "chart-donut": {
+        "title": "Donut chart",
+        "tags": [
+            "charts",
+            "reporting",
+            "dashboard"
+        ]
+    },
+    "chart-line": {
+        "title": "Line chart",
+        "tags": [
+            "charts",
+            "reporting",
+            "dashboard"
+        ]
+    },
+    "chart-pie": {
+        "title": "Pie chart",
+        "tags": [
+            "charts",
+            "reporting",
+            "dashboard"
+        ]
+    },
+    "cloud": {
+        "title": "Cloud",
         "tags": []
     },
     "cloud-instance": {
@@ -97,6 +185,14 @@
     },
     "connectivity-issue": {
         "title": "Connectivity issue",
+        "tags": []
+    },
+    "container": {
+        "title": "Container",
+        "tags": []
+    },
+    "containers": {
+        "title": "Containers",
         "tags": []
     },
     "contract-signing-1": {
@@ -111,8 +207,40 @@
         "title": "Data export",
         "tags": []
     },
+    "delivery": {
+        "title": "Delivery",
+        "tags": []
+    },
+    "error-404": {
+        "title": "Error 404",
+        "tags": []
+    },
+    "factory": {
+        "title": "Factory",
+        "tags": [
+            "building"
+        ]
+    },
+    "file-sheet": {
+        "title": "Sheet file",
+        "tags": [
+            "File"
+        ]
+    },
+    "firewall": {
+        "title": "Firewall",
+        "tags": []
+    },
     "fixing-bug": {
         "title": "Fixing bug",
+        "tags": []
+    },
+    "folder": {
+        "title": "Folder",
+        "tags": []
+    },
+    "gear": {
+        "title": "Gear",
         "tags": []
     },
     "glpi-cloud-support-1": {
@@ -123,8 +251,36 @@
         "title": "GLPI Cloud Support 2",
         "tags": []
     },
+    "group": {
+        "title": "Group",
+        "tags": []
+    },
     "kb-faq": {
         "title": "Knowledge base and FAQ",
+        "tags": []
+    },
+    "legal": {
+        "title": "Legal",
+        "tags": []
+    },
+    "license": {
+        "title": "License",
+        "tags": []
+    },
+    "location-1": {
+        "title": "Location 1",
+        "tags": []
+    },
+    "location-2": {
+        "title": "Location 2",
+        "tags": []
+    },
+    "lock": {
+        "title": "Lock",
+        "tags": []
+    },
+    "mobility": {
+        "title": "Mobility",
         "tags": []
     },
     "monitoring": {
@@ -147,6 +303,10 @@
         "title": "New user 4",
         "tags": []
     },
+    "newspaper": {
+        "title": "Newspaper",
+        "tags": []
+    },
     "on-premise": {
         "title": "On-premise",
         "tags": []
@@ -161,6 +321,10 @@
     },
     "print-job": {
         "title": "Print a job",
+        "tags": []
+    },
+    "question": {
+        "title": "Question",
         "tags": []
     },
     "report-issue": {
@@ -195,6 +359,10 @@
         "title": "RSS feeds",
         "tags": []
     },
+    "security": {
+        "title": "Security",
+        "tags": []
+    },
     "shared-folder": {
         "title": "Shared folder",
         "tags": []
@@ -215,12 +383,40 @@
         "title": "Technical assistance 2",
         "tags": []
     },
+    "time": {
+        "title": "Time",
+        "tags": []
+    },
     "training": {
         "title": "Training",
         "tags": []
     },
+    "update-1": {
+        "title": "Update 1",
+        "tags": ["software"]
+    },
+    "update-2": {
+        "title": "Update 2",
+        "tags": ["software"]
+    },
+    "user-offboarding": {
+        "title": "User offboarding",
+        "tags": []
+    },
+    "virus": {
+        "title": "Virus",
+        "tags": []
+    },
     "vpn": {
         "title": "VPN",
+        "tags": []
+    },
+    "web": {
+        "title": "Web",
+        "tags": []
+    },
+    "wharehouse    ": {
+        "title": "Wharehouse",
         "tags": []
     }
 }
