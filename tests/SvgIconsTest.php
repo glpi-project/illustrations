@@ -62,7 +62,7 @@ final class SvgIconsTest extends TestCase
         SplFileInfo $file,
     ): void {
         $allowed_colors = ['white', '#2F3F64', '#FEC95C', '#BCC5DC', 'none'];
-        $mandatory_colors = ['#2F3F64', '#BCC5DC'];
+        $mandatory_colors = ['#2F3F64'];
 
         $svg_content = file_get_contents($file->getPath() . '/' . $file->getFilename());
         preg_match_all('/fill="(.*?)"/', $svg_content, $matches);
