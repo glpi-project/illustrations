@@ -44,7 +44,6 @@ Add an icon on your page with the following markup:
 
 ## License
 
-
 This work is licensed under a
 [Creative Commons Attribution 4.0 International License][cc-by-sa].
 
@@ -55,13 +54,7 @@ This work is licensed under a
 
 ## Credits
 
-[Pablo Domrose](https://pablodomrose.com/):
+Thanks to all the contributors who made this work possible.
 
-- svg/icons
-- svg/scenes/default
-- svg/scenes/gradient
-
-[Vincent Batard](https://www.vincent-batard.fr/):
-
-- svg/brushes
-- svg/scenes/working_people
+- [Pablo Domrose](https://pablodomrose.com/):
+- [Vincent Batard](https://www.vincent-batard.fr/):
