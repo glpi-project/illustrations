@@ -1,19 +1,29 @@
 # GLPI illustrations
 
-![Icons](./svg/scenes/desk.svg)
+Collections of SVG assets made by GLPI team for various projects.
 
-**SVG illustrations** for [github.com/glpi-project/glpi](glpi-project)  
-Most icons have their colors customizable with CSS variables.
+## Scenes
+
+**SVG illustrations** from [glpi-project.org](https://glpi-project.org) website
+
+![Working people](./svg/scenes/working_people/WORKSPACE.svg)
+
+## Icons
+
+**SVG icons** for [github.com/glpi-project/glpi](glpi-project) application.  
+They have been made mainly for the new service catalog of 11.0 version.  
+
 
 ![Icons](./docs/pics/icons.png)
 
-## Usage
+### Usage
 
 ```bash
 npm install @glpi-project/illustrations
 ```
 
-Set the colors for the icons in your CSS:
+Most icons have their colors customizable with CSS variables.  
+So, set the colors for the icons in your CSS:
 
 ```css
 :root {
@@ -45,4 +55,13 @@ This work is licensed under a
 
 ## Credits
 
-- svg/icons until 2024-12-17: [Pablo Domrose](https://pablodomrose.com/)
+[Pablo Domrose](https://pablodomrose.com/):
+
+- svg/icons
+- svg/scenes/default
+- svg/scenes/gradient
+
+[Vincent Batard](https://www.vincent-batard.fr/):
+
+- svg/brushes
+- svg/scenes/working_people
