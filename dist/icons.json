@@ -14,25 +14,29 @@
     "asset-cartridge": {
         "title": "Cartridge",
         "tags": [
-            "asset"
+            "asset",
+            "device"
         ]
     },
     "asset-desktop-1": {
         "title": "Desktop 1",
         "tags": [
-            "asset"
+            "asset",
+            "device"
         ]
     },
     "asset-desktop-2": {
         "title": "Desktop 2",
         "tags": [
-            "asset"
+            "asset",
+            "device"
         ]
     },
     "asset-laptop": {
         "title": "Laptop",
         "tags": [
-            "asset"
+            "asset",
+            "device"
         ]
     },
     "asset-lost": {
@@ -42,37 +46,43 @@
     "asset-network-equipment": {
         "title": "Network equipment",
         "tags": [
-            "asset"
+            "asset",
+            "device"
         ]
     },
     "asset-peripheral": {
         "title": "Peripheral",
         "tags": [
-            "asset"
+            "asset",
+            "device"
         ]
     },
     "asset-phone": {
         "title": "Phone",
         "tags": [
-            "asset"
+            "asset",
+            "device"
         ]
     },
     "asset-printer": {
         "title": "Printer",
         "tags": [
-            "asset"
+            "asset",
+            "device"
         ]
     },
     "asset-server": {
         "title": "Server",
         "tags": [
-            "asset"
+            "asset",
+            "device"
         ]
     },
     "asset-smartphone": {
         "title": "Smartphone",
         "tags": [
-            "asset"
+            "asset",
+            "device"
         ]
     },
     "backup-restoration-1": {
@@ -241,7 +251,10 @@
     },
     "gear": {
         "title": "Gear",
-        "tags": []
+        "tags": [
+            "settings",
+            "setup"
+        ]
     },
     "glpi-cloud-support-1": {
         "title": "GLPI Cloud Support 1",
@@ -389,7 +402,9 @@
     },
     "training": {
         "title": "Training",
-        "tags": []
+        "tags": [
+            "presentation"
+        ]
     },
     "update-1": {
         "title": "Update 1",
@@ -413,10 +428,159 @@
     },
     "web": {
         "title": "Web",
-        "tags": []
+        "tags": [
+            "www",
+            "internet",
+            "world"
+        ]
     },
     "wharehouse": {
         "title": "Wharehouse",
         "tags": []
+    },
+
+    "application-altenative": {
+        "title": "application-altenative",
+        "tags": []
+    },
+    "application-edit": {
+        "title": "application-edit",
+        "tags": []
+    },
+    "chart-multiple": {
+        "title": "chart-multiple",
+        "tags": [
+            "charts",
+            "reporting",
+            "dashboard"
+        ]
+    },
+    "chart-search": {
+        "title": "chart-search",
+        "tags": [
+            "charts",
+            "reporting",
+            "dashboard"
+        ]
+    },
+    "chat-1": {
+        "title": "chat-1",
+        "tags": []
+    },
+    "chat-2": {
+        "title": "chat-2",
+        "tags": []
+    },
+    "cloud-network-1": {
+        "title": "cloud-network-1",
+        "tags": []
+    },
+    "cloud-network-2": {
+        "title": "cloud-network-2",
+        "tags": []
+    },
+    "database": {
+        "title": "database",
+        "tags": []
+    },
+    "download": {
+        "title": "download",
+        "tags": []
+    },
+    "group-alternative-1": {
+        "title": "group-alternative-1",
+        "tags": [
+            "users"
+        ]
+    },
+    "group-alternative-2": {
+        "title": "group-alternative-2",
+        "tags": [
+            "users"
+        ]
+    },
+    "group-web": {
+        "title": "group-web",
+        "tags": [
+            "users"
+        ]
+    },
+    "helpdesk": {
+        "title": "helpdesk",
+        "tags": [
+            "headphones"
+        ]
+    },
+    "hierarchy": {
+        "title": "hierarchy",
+        "tags": [
+            "users",
+            "group"
+        ]
+    },
+    "gear-hand": {
+        "title": "gear-hand",
+        "tags": [
+            "gear",
+            "wrench",
+            "setup",
+            "settings"
+        ]
+    },
+    "inbox": {
+        "title": "inbox",
+        "tags": [
+            "email"
+        ]
+    },
+    "notes": {
+        "title": "notes",
+        "tags": []
+    },
+    "presentation": {
+        "title": "presentation",
+        "tags": [
+            "training"
+        ]
+    },
+    "settings-search": {
+        "title": "settings-search",
+        "tags": [
+            "gear",
+            "wrench",
+            "setup"
+        ]
+    },
+    "settings": {
+        "title": "settings",
+        "tags": [
+            "gear",
+            "setup"
+        ]
+    },
+    "shaking-hands": {
+        "title": "shaking-hands",
+        "tags": []
+    },
+    "user-laptop": {
+        "title": "user-laptop",
+        "tags": [
+            "asset",
+            "device"
+        ]
+    },
+    "webinar": {
+        "title": "webinar",
+        "tags": [
+            "meeting"
+        ]
+    },
+    "world": {
+        "title": "world",
+        "tags": [
+            "web",
+            "www",
+            "internet"
+        ]
     }
 }
