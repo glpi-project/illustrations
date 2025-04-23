@@ -94,7 +94,7 @@
         "tags": [
             "asset",
             "device",
-            "landline phone",
+            "landline",
             "call",
             "communication"
         ]
@@ -121,7 +121,7 @@
             "asset",
             "device",
             "mobile",
-            "cell phone",
+            "cellphone",
             "communication",
             "iphone"
         ]
@@ -186,7 +186,7 @@
     "browse-kb": {
         "title": "Browse help articles",
         "tags": [
-            "knowledge base",
+            "knowledge-base",
             "faq",
             "articles",
             "documentation"
@@ -255,7 +255,7 @@
         ]
     },
     "chart-multiple": {
-        "title": "chart-multiple",
+        "title": "Chart multiple",
         "tags": [
             "charts",
             "reporting",
@@ -273,7 +273,7 @@
         ]
     },
     "chart-search": {
-        "title": "chart-search",
+        "title": "Search chart",
         "tags": [
             "charts",
             "reporting",
@@ -282,16 +282,15 @@
         ]
     },
     "chat-1": {
-        "title": "chat-1",
+        "title": "Chat 1",
         "tags": [
             "message",
-            "chat",
             "conversation",
             "communication"
         ]
     },
     "chat-2": {
-        "title": "chat-2",
+        "title": "Chat 2",
         "tags": [
             "message",
             "chat",
@@ -308,11 +307,11 @@
         "tags": []
     },
     "cloud-network-1": {
-        "title": "cloud-network-1",
+        "title": "Cloud Network 1",
         "tags": []
     },
     "cloud-network-2": {
-        "title": "cloud-network-2",
+        "title": "Cloud Network 2",
         "tags": []
     },
     "connectivity-issue": {
@@ -432,7 +431,7 @@
         ]
     },
     "gear-hand": {
-        "title": "gear-hand",
+        "title": "Gear hand",
         "tags": [
             "gear",
             "wrench",
@@ -459,25 +458,25 @@
         ]
     },
     "group-alternative-1": {
-        "title": "group alternative 1",
+        "title": "Group alternative 1",
         "tags": [
             "users"
         ]
     },
     "group-alternative-2": {
-        "title": "group alternative 2",
+        "title": "Group alternative 2",
         "tags": [
             "users"
         ]
     },
     "group-web": {
-        "title": "group web",
+        "title": "Group web",
         "tags": [
             "users"
         ]
     },
     "helpdesk": {
-        "title": "helpdesk",
+        "title": "Helpdesk",
         "tags": [
             "headphones",
             "support",
@@ -489,7 +488,7 @@
         ]
     },
     "hierarchy": {
-        "title": "hierarchy",
+        "title": "Hierarchy",
         "tags": [
             "users",
             "group",
@@ -502,7 +501,7 @@
         ]
     },
     "inbox": {
-        "title": "inbox",
+        "title": "Inbox",
         "tags": [
             "email",
             "communication",
@@ -699,7 +698,7 @@
         ]
     },
     "settings": {
-        "title": "settings",
+        "title": "Settings",
         "tags": [
             "gear",
             "setup",
@@ -710,7 +709,7 @@
         ]
     },
     "settings-search": {
-        "title": "settings-search",
+        "title": "Search settings",
         "tags": [
             "gear",
             "wrench",
@@ -722,7 +721,7 @@
         ]
     },
     "shaking-hands": {
-        "title": "shaking-hands",
+        "title": "Shaking hands",
         "tags": [
             "agreement",
             "contract",
@@ -840,7 +839,7 @@
         ]
     },
     "webinar": {
-        "title": "webinar",
+        "title": "Webinar",
         "tags": [
             "meeting",
             "conference",
@@ -857,7 +856,7 @@
         ]
     },
     "world": {
-        "title": "world",
+        "title": "World",
         "tags": [
             "web",
             "www",
