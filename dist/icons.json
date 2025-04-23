@@ -5,7 +5,17 @@
     },
     "application": {
         "title": "Application",
-        "tags": ["software"]
+        "tags": [
+            "software"
+        ]
+    },
+    "application-altenative": {
+        "title": "application-altenative",
+        "tags": []
+    },
+    "application-edit": {
+        "title": "application-edit",
+        "tags": []
     },
     "approve-requests": {
         "title": "Approve Requests",
@@ -177,6 +187,14 @@
             "dashboard"
         ]
     },
+    "chart-multiple": {
+        "title": "chart-multiple",
+        "tags": [
+            "charts",
+            "reporting",
+            "dashboard"
+        ]
+    },
     "chart-pie": {
         "title": "Pie chart",
         "tags": [
@@ -185,12 +203,36 @@
             "dashboard"
         ]
     },
+    "chart-search": {
+        "title": "chart-search",
+        "tags": [
+            "charts",
+            "reporting",
+            "dashboard"
+        ]
+    },
+    "chat-1": {
+        "title": "chat-1",
+        "tags": []
+    },
+    "chat-2": {
+        "title": "chat-2",
+        "tags": []
+    },
     "cloud": {
         "title": "Cloud",
         "tags": []
     },
     "cloud-instance": {
         "title": "Cloud instance",
+        "tags": []
+    },
+    "cloud-network-1": {
+        "title": "cloud-network-1",
+        "tags": []
+    },
+    "cloud-network-2": {
+        "title": "cloud-network-2",
         "tags": []
     },
     "connectivity-issue": {
@@ -217,8 +259,16 @@
         "title": "Data export",
         "tags": []
     },
+    "database": {
+        "title": "database",
+        "tags": []
+    },
     "delivery": {
         "title": "Delivery",
+        "tags": []
+    },
+    "download": {
+        "title": "download",
         "tags": []
     },
     "error-404": {
@@ -256,6 +306,15 @@
             "setup"
         ]
     },
+    "gear-hand": {
+        "title": "gear-hand",
+        "tags": [
+            "gear",
+            "wrench",
+            "setup",
+            "settings"
+        ]
+    },
     "glpi-cloud-support-1": {
         "title": "GLPI Cloud Support 1",
         "tags": []
@@ -267,6 +326,43 @@
     "group": {
         "title": "Group",
         "tags": []
+    },
+    "group-alternative-1": {
+        "title": "group-alternative-1",
+        "tags": [
+            "users"
+        ]
+    },
+    "group-alternative-2": {
+        "title": "group-alternative-2",
+        "tags": [
+            "users"
+        ]
+    },
+    "group-web": {
+        "title": "group-web",
+        "tags": [
+            "users"
+        ]
+    },
+    "helpdesk": {
+        "title": "helpdesk",
+        "tags": [
+            "headphones"
+        ]
+    },
+    "hierarchy": {
+        "title": "hierarchy",
+        "tags": [
+            "users",
+            "group"
+        ]
+    },
+    "inbox": {
+        "title": "inbox",
+        "tags": [
+            "email"
+        ]
     },
     "kb-faq": {
         "title": "Knowledge base and FAQ",
@@ -320,6 +416,10 @@
         "title": "Newspaper",
         "tags": []
     },
+    "notes": {
+        "title": "notes",
+        "tags": []
+    },
     "on-premise": {
         "title": "On-premise",
         "tags": []
@@ -331,6 +431,12 @@
     "partner": {
         "title": "Partner",
         "tags": []
+    },
+    "presentation": {
+        "title": "presentation",
+        "tags": [
+            "training"
+        ]
     },
     "print-job": {
         "title": "Print a job",
@@ -376,6 +482,25 @@
         "title": "Security",
         "tags": []
     },
+    "settings": {
+        "title": "settings",
+        "tags": [
+            "gear",
+            "setup"
+        ]
+    },
+    "settings-search": {
+        "title": "settings-search",
+        "tags": [
+            "gear",
+            "wrench",
+            "setup"
+        ]
+    },
+    "shaking-hands": {
+        "title": "shaking-hands",
+        "tags": []
+    },
     "shared-folder": {
         "title": "Shared folder",
         "tags": []
@@ -408,11 +533,22 @@
     },
     "update-1": {
         "title": "Update 1",
-        "tags": ["software"]
+        "tags": [
+            "software"
+        ]
     },
     "update-2": {
         "title": "Update 2",
-        "tags": ["software"]
+        "tags": [
+            "software"
+        ]
+    },
+    "user-laptop": {
+        "title": "user-laptop",
+        "tags": [
+            "asset",
+            "device"
+        ]
     },
     "user-offboarding": {
         "title": "User offboarding",
@@ -434,146 +570,15 @@
             "world"
         ]
     },
-    "wharehouse": {
-        "title": "Wharehouse",
-        "tags": []
-    },
-
-    "application-altenative": {
-        "title": "application-altenative",
-        "tags": []
-    },
-    "application-edit": {
-        "title": "application-edit",
-        "tags": []
-    },
-    "chart-multiple": {
-        "title": "chart-multiple",
-        "tags": [
-            "charts",
-            "reporting",
-            "dashboard"
-        ]
-    },
-    "chart-search": {
-        "title": "chart-search",
-        "tags": [
-            "charts",
-            "reporting",
-            "dashboard"
-        ]
-    },
-    "chat-1": {
-        "title": "chat-1",
-        "tags": []
-    },
-    "chat-2": {
-        "title": "chat-2",
-        "tags": []
-    },
-    "cloud-network-1": {
-        "title": "cloud-network-1",
-        "tags": []
-    },
-    "cloud-network-2": {
-        "title": "cloud-network-2",
-        "tags": []
-    },
-    "database": {
-        "title": "database",
-        "tags": []
-    },
-    "download": {
-        "title": "download",
-        "tags": []
-    },
-    "group-alternative-1": {
-        "title": "group-alternative-1",
-        "tags": [
-            "users"
-        ]
-    },
-    "group-alternative-2": {
-        "title": "group-alternative-2",
-        "tags": [
-            "users"
-        ]
-    },
-    "group-web": {
-        "title": "group-web",
-        "tags": [
-            "users"
-        ]
-    },
-    "helpdesk": {
-        "title": "helpdesk",
-        "tags": [
-            "headphones"
-        ]
-    },
-    "hierarchy": {
-        "title": "hierarchy",
-        "tags": [
-            "users",
-            "group"
-        ]
-    },
-    "gear-hand": {
-        "title": "gear-hand",
-        "tags": [
-            "gear",
-            "wrench",
-            "setup",
-            "settings"
-        ]
-    },
-    "inbox": {
-        "title": "inbox",
-        "tags": [
-            "email"
-        ]
-    },
-    "notes": {
-        "title": "notes",
-        "tags": []
-    },
-    "presentation": {
-        "title": "presentation",
-        "tags": [
-            "training"
-        ]
-    },
-    "settings-search": {
-        "title": "settings-search",
-        "tags": [
-            "gear",
-            "wrench",
-            "setup"
-        ]
-    },
-    "settings": {
-        "title": "settings",
-        "tags": [
-            "gear",
-            "setup"
-        ]
-    },
-    "shaking-hands": {
-        "title": "shaking-hands",
-        "tags": []
-    },
-    "user-laptop": {
-        "title": "user-laptop",
-        "tags": [
-            "asset",
-            "device"
-        ]
-    },
     "webinar": {
         "title": "webinar",
         "tags": [
             "meeting"
         ]
+    },
+    "wharehouse": {
+        "title": "Wharehouse",
+        "tags": []
     },
     "world": {
         "title": "world",
