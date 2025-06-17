@@ -1,4 +1,49 @@
 {
+    "advanced-dashboards": {
+        "title": "advanced-dashboards",
+        "tags": [
+            "plugin",
+            "charts",
+            "reporting",
+            "dashboard"
+        ]
+    },
+    "alert": {
+        "title": "alert",
+        "tags": [
+            "plugin",
+            "notification",
+            "warning"
+        ]
+    },
+    "anonymise": {
+        "title": "anonymise",
+        "tags": [
+            "plugin",
+            "privacy",
+            "data-protection",
+            "file"
+        ]
+    },
+    "anonymize-alt": {
+        "title": "anonymize-alt",
+        "tags": [
+            "plugin",
+            "privacy",
+            "data-protection",
+            "file",
+            "folder"
+        ]
+    },
+    "ansible": {
+        "title": "ansible",
+        "tags": [
+            "plugin",
+            "automation",
+            "orchestration",
+            "configuration-management"
+        ]
+    },
     "antivirus": {
         "title": "Antivirus",
         "tags": []
@@ -16,6 +61,12 @@
     "application-edit": {
         "title": "application-edit",
         "tags": []
+    },
+    "approval-by-mail": {
+        "title": "approval-by-mail",
+        "tags": [
+            "plugin"
+        ]
     },
     "approve-requests": {
         "title": "Approve Requests",
@@ -183,6 +234,15 @@
             "label"
         ]
     },
+    "branding": {
+        "title": "branding",
+        "tags": [
+            "plugin",
+            "customization",
+            "theme",
+            "whitelabel"
+        ]
+    },
     "browse-kb": {
         "title": "Browse help articles",
         "tags": [
@@ -216,6 +276,24 @@
             "vehicle",
             "transport",
             "automobile"
+        ]
+    },
+    "carbon": {
+        "title": "carbon",
+        "tags": [
+            "plugin",
+            "footprint",
+            "environment",
+            "sustainability",
+            "co2",
+            "green-IT"
+        ]
+    },
+    "centreon": {
+        "title": "centreon",
+        "tags": [
+            "plugin",
+            "monitoring"
         ]
     },
     "chart-area": {
@@ -306,6 +384,13 @@
         "title": "Cloud instance",
         "tags": []
     },
+    "cloud-inventory": {
+        "title": "cloud-inventory",
+        "tags": [
+            "plugin",
+            "asset"
+        ]
+    },
     "cloud-network-1": {
         "title": "Cloud Network 1",
         "tags": []
@@ -313,6 +398,15 @@
     "cloud-network-2": {
         "title": "Cloud Network 2",
         "tags": []
+    },
+    "collaborative-tools": {
+        "title": "collaborative-tools",
+        "tags": [
+            "plugin",
+            "notification",
+            "communication",
+            "webhook"
+        ]
     },
     "connectivity-issue": {
         "title": "Connectivity issue",
@@ -352,10 +446,26 @@
             "signature"
         ]
     },
+    "credit": {
+        "title": "credit",
+        "tags": [
+            "plugin",
+            "ticket",
+            "helpdesk"
+        ]
+    },
     "data-export": {
         "title": "Data export",
         "tags": [
             "database"
+        ]
+    },
+    "data-injection": {
+        "title": "data-injection",
+        "tags": [
+            "plugin",
+            "CSV",
+            "import"
         ]
     },
     "database": {
@@ -380,6 +490,16 @@
             "not found"
         ]
     },
+    "escalade": {
+        "title": "escalade",
+        "tags": [
+            "plugin",
+            "helpdesk",
+            "ticket",
+            "support",
+            "group"
+        ]
+    },
     "factory": {
         "title": "Factory",
         "tags": [
@@ -387,6 +507,14 @@
             "manufacturing",
             "production",
             "industry"
+        ]
+    },
+    "fields": {
+        "title": "fields",
+        "tags": [
+            "plugin",
+            "custom",
+            "form"
         ]
     },
     "file-sheet": {
@@ -419,6 +547,23 @@
             "directory"
         ]
     },
+    "formcreator": {
+        "title": "formcreator",
+        "tags": [
+            "plugin",
+            "form",
+            "survey"
+        ]
+    },
+    "gdpr-tools": {
+        "title": "gdpr-tools",
+        "tags": [
+            "plugin",
+            "privacy",
+            "data-protection",
+            "compliance"
+        ]
+    },
     "gear": {
         "title": "Gear",
         "tags": [
@@ -441,6 +586,23 @@
             "preferences",
             "options",
             "cog"
+        ]
+    },
+    "generic-objects": {
+        "title": "generic-objects",
+        "tags": [
+            "plugin",
+            "custom",
+            "asset"
+        ]
+    },
+    "glpi-ai": {
+        "title": "glpi-ai",
+        "tags": [
+            "plugin",
+            "artificial-intelligence",
+            "machine-learning",
+            "natural-language-processing"
         ]
     },
     "glpi-cloud-support-1": {
@@ -498,6 +660,14 @@
             "users",
             "team",
             "group"
+        ]
+    },
+    "holiday": {
+        "title": "holiday",
+        "tags": [
+            "plugin",
+            "vacation",
+            "nationnal-holiday"
         ]
     },
     "inbox": {
@@ -570,6 +740,16 @@
             "supervision"
         ]
     },
+    "more-satisfaction": {
+        "title": "more-satisfaction",
+        "tags": [
+            "plugin",
+            "survey",
+            "feedback",
+            "customer",
+            "CSAT"
+        ]
+    },
     "new-user-1": {
         "title": "New user 1",
         "tags": [
@@ -610,9 +790,37 @@
             "journal"
         ]
     },
+    "oauth-imap": {
+        "title": "oauth-imap",
+        "tags": [
+            "plugin",
+            "email",
+            "receiver"
+        ]
+    },
+    "oauth-sso": {
+        "title": "oauth-sso",
+        "tags": [
+            "plugin",
+            "authentication",
+            "single-sign-on",
+            "login"
+        ]
+    },
     "on-premise": {
         "title": "On-premise",
         "tags": []
+    },
+    "order-management": {
+        "title": "order-management",
+        "tags": [
+            "plugin",
+            "asset",
+            "invoice",
+            "delivery",
+            "shipping",
+            "purchase"
+        ]
     },
     "order-supplies": {
         "title": "Order supplies",
@@ -640,6 +848,13 @@
     "question": {
         "title": "Question",
         "tags": []
+    },
+    "rename-glpi-strings": {
+        "title": "rename-glpi-strings",
+        "tags": [
+            "plugin",
+            "customization"
+        ]
     },
     "report-issue": {
         "title": "Report an issue",
@@ -686,6 +901,16 @@
         "tags": [
             "news",
             "articles"
+        ]
+    },
+    "scim": {
+        "title": "scim",
+        "tags": [
+            "plugin",
+            "users",
+            "import",
+            "synchronization",
+            "provisioning"
         ]
     },
     "security": {
@@ -748,6 +973,25 @@
             "application"
         ]
     },
+    "splitcat": {
+        "title": "splitcat",
+        "tags": [
+            "plugin",
+            "categories",
+            "ticket",
+            "helpdesk",
+            "dropdown"
+        ]
+    },
+    "tag": {
+        "title": "tag",
+        "tags": [
+            "plugin",
+            "label",
+            "classification",
+            "metadata"
+        ]
+    },
     "technical-assistance-1": {
         "title": "Technical assistance 1",
         "tags": [
@@ -782,6 +1026,32 @@
             "education",
             "course",
             "seminar"
+        ]
+    },
+    "translation": {
+        "title": "translation",
+        "tags": [
+            "plugin",
+            "localization",
+            "internationalization",
+            "i18n",
+            "l10n"
+        ]
+    },
+    "uninstall": {
+        "title": "uninstall",
+        "tags": [
+            "plugin",
+            "lifecycle",
+            "asset",
+            "process"
+        ]
+    },
+    "unread-messages": {
+        "title": "unread-messages",
+        "tags": [
+            "plugin",
+            "notification"
         ]
     },
     "update-1": {
