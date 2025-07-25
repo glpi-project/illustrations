@@ -8,6 +8,16 @@
             "dashboard"
         ]
     },
+    "agent-config": {
+        "title": "Agent config",
+        "tags": [
+            "plugin",
+            "Qrcode",
+            "Smartphone",
+            "configuration",
+            "mobile"
+        ]
+    },
     "alert": {
         "title": "alert",
         "tags": [
@@ -1006,6 +1016,30 @@
             "support",
             "helpdesk",
             "assistance"
+        ]
+    },
+    "ticket": {
+        "title": "Ticket",
+        "tags": [
+            "helpdesk",
+            "issue",
+            "problem",
+            "support",
+            "request",
+            "incident",
+            "form"
+        ]
+    },
+    "tickets": {
+        "title": "Tickets",
+        "tags": [
+            "helpdesk",
+            "issue",
+            "problem",
+            "support",
+            "request",
+            "incident",
+            "list"
         ]
     },
     "time": {
