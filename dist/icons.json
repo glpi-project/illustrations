@@ -490,6 +490,22 @@
             "transport"
         ]
     },
+    "doc-developer": {
+        "title": "Developer documentation",
+        "tags": [
+            "developer",
+            "api",
+            "code"
+        ]
+    },
+    "documentation": {
+        "title": "Documentation",
+        "tags": [
+            "docs",
+            "manual",
+            "guide"
+        ]
+    },
     "download": {
         "title": "download",
         "tags": []
@@ -517,6 +533,14 @@
             "manufacturing",
             "production",
             "industry"
+        ]
+    },
+    "faq": {
+        "title": "Frequently Asked Questions",
+        "tags": [
+            "faq",
+            "questions",
+            "help"
         ]
     },
     "fields": {
@@ -688,6 +712,14 @@
             "message",
             "email",
             "notifications"
+        ]
+    },
+    "inventory": {
+        "title": "Inventory",
+        "tags": [
+            "inventory",
+            "items",
+            "resources"
         ]
     },
     "kb-faq": {
@@ -1072,6 +1104,14 @@
             "l10n"
         ]
     },
+    "tutorial": {
+        "title": "Tutorial",
+        "tags": [
+            "tutorial",
+            "how-to",
+            "guide"
+        ]
+    },
     "uninstall": {
         "title": "uninstall",
         "tags": [
@@ -1168,6 +1208,14 @@
             "globe",
             "earth",
             "planet"
+        ]
+    },
+    "youtube": {
+        "title": "YouTube",
+        "tags": [
+            "video",
+            "youtube",
+            "channel"
         ]
     }
 }
