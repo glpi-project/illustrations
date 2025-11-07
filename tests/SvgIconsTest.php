@@ -92,6 +92,9 @@ final class SvgIconsTest extends TestCase
         $symbol = static::$sprites_crawler->filterXPath(
             sprintf('//symbol[@id="%s"]', $key),
         );
-        $this->assertEquals(1, $symbol->count());
+        $this->assertEquals(1, $symbol->count(), sprintf(
+            'Icon "%s" not found in sprites file.',
+            $key,
+        ));
     }
 }
