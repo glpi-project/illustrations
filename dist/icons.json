@@ -8,6 +8,14 @@
             "dashboard"
         ]
     },
+    "advanced-forms": {
+        "title": "Advanced forms",
+        "tags": [
+            "plugin",
+            "form",
+            "survey"
+        ]
+    },
     "agent-config": {
         "title": "Agent config",
         "tags": [
@@ -235,6 +243,15 @@
             "analytics"
         ]
     },
+    "bi-reporting-4": {
+        "title": "Business Intelligence and Reporting 4",
+        "tags": [
+            "charts",
+            "reporting",
+            "dashboard",
+            "analytics"
+        ]
+    },
     "bookmark": {
         "title": "Bookmark",
         "tags": [
@@ -409,6 +426,13 @@
         "title": "Cloud Network 2",
         "tags": []
     },
+    "cloud-usage": {
+        "title": "Cloud usage",
+        "tags": [
+            "monitoring",
+            "billing"
+        ]
+    },
     "collaborative-tools": {
         "title": "collaborative-tools",
         "tags": [
@@ -482,12 +506,23 @@
         "title": "database",
         "tags": []
     },
+    "database-add": {
+        "title": "Add database",
+        "tags": []
+    },
     "delivery": {
         "title": "Delivery",
         "tags": [
             "package",
             "shipping",
             "transport"
+        ]
+    },
+    "diagnostic": {
+        "title": "Diagnostic",
+        "tags": [
+            "troubleshooting",
+            "analysis"
         ]
     },
     "doc-developer": {
@@ -575,6 +610,14 @@
             "error"
         ]
     },
+    "fixing-bug-2": {
+        "title": "Fixing bug 2",
+        "tags": [
+            "issue",
+            "problem",
+            "error"
+        ]
+    },
     "folder": {
         "title": "Folder",
         "tags": [
@@ -587,6 +630,14 @@
             "plugin",
             "form",
             "survey"
+        ]
+    },
+    "gantt": {
+        "title": "Gantt",
+        "tags": [
+            "project-management",
+            "planning",
+            "schedule"
         ]
     },
     "gdpr-tools": {
@@ -722,11 +773,43 @@
             "resources"
         ]
     },
+    "inventory-numbers": {
+        "title": "Inventory numbers",
+        "tags": [
+            "items",
+            "assets"
+        ]
+    },
+    "items-export": {
+        "title": "Items export",
+        "tags": []
+    },
     "kb-faq": {
         "title": "Knowledge base and FAQ",
         "tags": [
             "articles",
             "documentation"
+        ]
+    },
+    "ldap-diagnostic": {
+        "title": "LDAP diagnostic",
+        "tags": [
+            "directory",
+            "troubleshooting"
+        ]
+    },
+    "ldap-inventory": {
+        "title": "LDAP inventory",
+        "tags": [
+            "directory",
+            "users"
+        ]
+    },
+    "ldap-manage": {
+        "title": "LDAP manage",
+        "tags": [
+            "directory",
+            "users"
         ]
     },
     "legal": {
@@ -759,6 +842,14 @@
             "pin"
         ]
     },
+    "locations": {
+        "title": "Locations",
+        "tags": [
+            "map",
+            "places",
+            "arborescence"
+        ]
+    },
     "lock": {
         "title": "Lock",
         "tags": [
@@ -782,6 +873,13 @@
             "supervision"
         ]
     },
+    "more-options": {
+        "title": "More options",
+        "tags": [
+            "settings",
+            "preferences"
+        ]
+    },
     "more-satisfaction": {
         "title": "more-satisfaction",
         "tags": [
@@ -790,6 +888,14 @@
             "feedback",
             "customer",
             "CSAT"
+        ]
+    },
+    "network-inventory": {
+        "title": "Network inventory",
+        "tags": [
+            "network",
+            "devices",
+            "agent"
         ]
     },
     "new-user-1": {
@@ -872,6 +978,22 @@
         "title": "Partner",
         "tags": []
     },
+    "pdf-export": {
+        "title": "PDF export",
+        "tags": [
+            "document",
+            "file",
+            "export"
+        ]
+    },
+    "phone-inventory": {
+        "title": "Phone inventory",
+        "tags": [
+            "phone",
+            "device",
+            "agent"
+        ]
+    },
     "presentation": {
         "title": "presentation",
         "tags": [
@@ -885,6 +1007,14 @@
         "title": "Print a job",
         "tags": [
             "printer"
+        ]
+    },
+    "printer-inventory": {
+        "title": "Printer inventory",
+        "tags": [
+            "printer",
+            "device",
+            "agent"
         ]
     },
     "question": {
